@@ -1,6 +1,6 @@
 {
   "name": "@lostintime/devcon-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Path Parsing DSL",
   "main": "index.js",
   "types": "index.d.ts",
@@ -19,8 +19,6 @@
   "author": "lostintime.dev@gmail.com",
   "license": "Apache-2.0",
   "homepage": "https://github.com/lostintime/devcon-ts",
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
