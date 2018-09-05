@@ -1,0 +1,25 @@
+{
+  "name": "@lostintime/devcon-ts",
+  "version": "0.1.0",
+  "description": "Path Parsing DSL",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com:lostintime/devcon-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "tslint",
+    "mocha"
+  ],
+  "author": "lostintime.dev@gmail.com",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/lostintime/devcon-ts",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
