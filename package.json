@@ -2,7 +2,7 @@
   "name": "@lostintime/devcon-ts",
   "version": "0.1.2",
   "private": false,
-  "description": "Path Parsing DSL",
+  "description": "Development configs for TypeScript projects",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
