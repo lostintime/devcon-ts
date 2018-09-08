@@ -4,7 +4,7 @@ notifications:
 node_js:
 - '8.11'
 script:
-- yarn run build
+- npm run build
 deploy:
   provider: npm
   on:
