@@ -5,6 +5,9 @@
   "description": "Development configs for TypeScript projects",
   "main": "index.js",
   "types": "index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "yarn --version"
   },
