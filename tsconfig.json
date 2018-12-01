@@ -11,14 +11,9 @@
     "noUnusedLocals": true,
     "forceConsistentCasingInFileNames": true,
     "noEmitOnError": true,
-    "declarationDir": "dist",
-    "outDir": "dist",
     "allowSyntheticDefaultImports": true,
     "jsx": "react",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true
-  },
-  "include": [
-    "src"
-  ]
+  }
 }
