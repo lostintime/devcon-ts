@@ -1,6 +1,6 @@
 {
   "name": "@lostintime/devcon-ts",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "private": false,
   "description": "Development configs for TypeScript projects",
   "main": "index.js",
