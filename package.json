@@ -24,8 +24,7 @@
   "author": "lostintime.dev@gmail.com",
   "license": "Apache-2.0",
   "homepage": "https://github.com/lostintime/devcon-ts",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "@commitlint/cli": "^8.0.0",
     "@commitlint/config-conventional": "^8.0.0",
     "commitizen": "^3.1.1",
@@ -39,5 +38,6 @@
     "tslint-plugin-prettier": "^2.0.1",
     "tslint": "^5.17.0",
     "typescript": "3.5.2"
-  }
+  },
+  "devDependencies": {}
 }
