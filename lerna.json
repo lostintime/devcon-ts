@@ -1,0 +1,12 @@
+{
+  "command": {
+    "version": {
+      "conventionalCommits": true
+    }
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.0.0-development",
+  "hoist": true
+}

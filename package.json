@@ -9,7 +9,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "yarn --version"
+    "build": "npm --version"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
   "keywords": [
     "typescript",
     "tslint",
-    "mocha"
+    "mocha",
+    "conventional commits"
   ],
   "author": "lostintime.dev@gmail.com",
   "license": "Apache-2.0",

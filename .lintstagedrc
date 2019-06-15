@@ -1,0 +1,6 @@
+{
+  "*.{js,json,css,md,ts,tsx}": [
+    "prettier --find-config-path --ignore-path .prettierignore --write",
+    "git add"
+  ]
+}
