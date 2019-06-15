@@ -35,7 +35,7 @@ ln -s ./node_modules/@lostintime/devcon-ts/.prettierrc
 ### TypeScript
 
 ```
-ln -s ./node_modules/@lostintime/devcon-ts/.tslint.json
+ln -s ./node_modules/@lostintime/devcon-ts/tslint.json
 ```
 
 Extend `@lostintime/devcon-ts` in your `tsconfig.json`, ex:
