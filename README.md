@@ -4,7 +4,7 @@
 
 Opinionated development configs for TypeScript projects.
 
-Package brings `devDependencies` required for [prettier](https://prettier.io/), [tslint](https://github.com/palantir/tslint#readme) and [conventional commits](https://www.conventionalcommits.org/) support.
+Package brings `devDependencies` required for [prettier](https://prettier.io/) and [conventional commits](https://www.conventionalcommits.org/) support.
 
 ## Installation
 
@@ -33,10 +33,6 @@ ln -s ./node_modules/@lostintime/devcon-ts/.prettierrc
 ```
 
 ### TypeScript
-
-```
-ln -s ./node_modules/@lostintime/devcon-ts/tslint.json
-```
 
 Extend `@lostintime/devcon-ts` in your `tsconfig.json`, ex:
 
