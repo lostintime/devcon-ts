@@ -5,6 +5,7 @@
     "module": "commonjs",
     "strict": true,
     "sourceMap": true,
+    "declarationMap": true,
     "declaration": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
